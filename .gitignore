@@ -1,13 +1,11 @@
 node_modules
 build
+dist
 npm-debug.log
 TODO.md
 read
 preview.html
 preview.json
 coverage
-dist/mercury_test.js
-dist/mercury_test.js.map
-dist/mercury_test.web.js
 tmp/artifacts
 test-output.json
