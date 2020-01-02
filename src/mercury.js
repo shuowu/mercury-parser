@@ -11,6 +11,8 @@ import collectAllPages from 'extractors/collect-all-pages';
 
 const Mercury = {
   async parse(url, { html, ...opts } = {}) {
+    console.log('Start parsing ...')
+    
     const {
       fetchAllPages = true,
       fallback = true,
